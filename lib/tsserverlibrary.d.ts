@@ -2436,6 +2436,7 @@ declare namespace ts {
         allowUnreachableCode?: boolean;
         allowUnusedLabels?: boolean;
         alwaysStrict?: boolean;
+        autoEmitAMDModuleNames?: boolean;
         baseUrl?: string;
         charset?: string;
         checkJs?: boolean;
